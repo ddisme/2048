@@ -258,7 +258,7 @@ function canMoveRight() {
 
 function moveDown() {
     //任务6：实现“下”逻辑
-    if (!canMoveUp()) {
+    if (!canMoveDown()) {
         return false;
     }
 
