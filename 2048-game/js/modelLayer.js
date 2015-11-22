@@ -1,5 +1,5 @@
 /**
- * Created by airing on 15/10/19.
+ * Created by ddisme on 15/10/19.
  */
 var documentWidth = window.screen.availWidth >500? 500: window.screen.availWidth;
 var margin = 0.04 * documentWidth;
