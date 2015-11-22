@@ -1,5 +1,5 @@
 /**
- * Created by airing on 15/10/19.
+ * Created by ddisme on 15/10/19.
  */
 function startGame(cxt) {
     init(cxt);     //初始化游戏界面UI
